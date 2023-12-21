@@ -1,4 +1,5 @@
 # Greeting Card
+Author - Kriti Murali
 
 ## Project Overview
 In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
